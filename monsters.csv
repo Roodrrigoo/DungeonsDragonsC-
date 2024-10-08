@@ -1,0 +1,31 @@
+name,cr,type,size,ac,hp,align
+crab,0.0,beast,Tiny,11,2,unaligned
+hell-hound,3.0,fiend,Medium,15,45,lawful evil
+xvart,0.125,humanoid (xvart),Small,13,7,chaotic evil
+pseudodragon,0.25,dragon,Tiny,13,7,neutral good
+bulezau,3.0,fiend (demon),Medium,14,52,chaotic evil
+male-steeder,0.25,monstrosity,Medium,12,13,unaligned
+ulitharid,9.0,aberration,Large,15,127,lawful evil
+riding-horse,0.25,beast,Large,10,13,unaligned
+babau,4.0,fiend (demon),Medium,16,82,chaotic evil
+cloud-giant-smiling-one,11.0,giant (cloud giant),Huge,15,262,chaotic neutral
+guard-drake,2.0,dragon,Medium,14,52,unaligned
+draft-horse,0.25,beast,Large,10,19,unaligned
+maw-demon,1.0,fiend (demon),Medium,13,33,chaotic evil
+medusa,6.0,monstrosity,Medium,15,127,lawful evil
+rhinoceros,2.0,beast,Large,11,45,unaligned
+star-spawn-hulk,10.0,aberration,Large,16,136,chaotic evil
+cambion,5.0,fiend,Medium,19,82,any evil alignment
+deathlock,4.0,undead,Medium,12,36,neutral evil
+halaster-blackcloak,23.0,humanoid (human),Medium,14,246,chaotic evil
+devourer,13.0,fiend,Large,16,178,chaotic evil
+gorgon,5.0,monstrosity,Large,19,114,unaligned
+oni,7.0,giant,Large,16,110,lawful evil
+water-weird,3.0,elemental,Large,13,58,neutral
+frost-salamander,9.0,elemental,Huge,17,168,unaligned
+stegosaurus,4.0,beast,Huge,13,76,unaligned
+goat,0.0,beast,Medium,10,4,unaligned
+lizardfolk,0.5,humanoid (lizardfolk),Medium,15,22,neutral
+crocodile,0.5,beast,Large,12,19,unaligned
+juiblex,23.0,fiend (demon),Huge,18,350,chaotic evil
+ancient-shadow,1.0,undead,Medium,13,32,chaotic evil
